@@ -1,5 +1,4 @@
-Shapeshift v2.0
-===============
+
 
 [Check out a demo here.](http://mcpants.github.com/jquery.shapeshift/)
 
@@ -54,3 +53,4 @@ For Contributors
 ----------------
 
 Feel like you've got an idea on how to optimize the code and want to share it? We are totally open to new changes, however this is one of the first publically available plugins that I am offering and therefore do not have an exact process on pull requests. Feel free to fork the project all you want, but be aware any pull requests that are made may take a while to get implemented (if at all).
+
